@@ -1,1 +1,1 @@
-Mcoin5 is a version of Mcoin that is a fork of Bitcoin. This is currently a W.I.P.
+All credits go to Bitcoin. I did not create this.
